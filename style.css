@@ -1,0 +1,81 @@
+#title{
+	border: solid; 
+	padding: 20px;
+	margin-bottom: 15px;
+
+	font-size: 50px;
+	color: darkcyan;
+	font-family:Arnoldboecklin, fantasy;
+
+	text-align: center;
+	background-color: yellow;
+}
+
+#parag{
+	
+	border: solid; 
+	padding: 20px;
+	margin: 0 auto;
+
+	font-size: 20px;
+	color: darkslateblue;
+	font-family: Andale Mono, monospace;
+
+	text-align: center;
+	background-color: pink;
+
+}
+#YOUT{
+	border: solid;
+	padding: 20px;
+	margin-top: 15px;
+	margin-bottom: 1px;
+
+	font-size: 30px;
+	color: white;
+	font-family: Lucidatypewriter, monospace;
+
+	text-align: center;
+	background-color: red;
+
+}
+#INST{
+	border: solid;
+	padding: 20px;
+	margin-bottom: 15px;
+	font-size: 30px;
+	
+	color: white;
+	font-family: Lucidatypewriter, monospace;
+
+	text-align: center;
+	background-color: purple;
+
+}
+#coming{
+	border: solid; 
+	padding: 20px;
+	margin-top: 15px;
+
+	font-size: 50px;
+	color: darkcyan;
+	font-family:Arnoldboecklin, fantasy;
+
+	text-align: center;
+	background-color: yellow;
+
+}
+#pro{
+	border: solid; 
+	padding: 20px;
+	border: white;
+	margin-top:28px;
+
+	font-size: 20px;
+	color: white;
+	font-family: Andale Mono, monospace;
+
+	text-align: center;
+	background-color: black;
+
+}
